@@ -1,0 +1,5 @@
+sentence-transformers
+json
+flask
+torch torchvision torchaudio
+flask-cors
