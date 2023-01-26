@@ -1,0 +1,342 @@
+{
+  "i173": {
+    "prompt_type": 1,
+    "support_yes": {
+      "relevant_facts": [
+        {
+          "describe": "cut premature deaths",
+          "sentences": [
+            "The introduction of home air-conditioning in the United States has cut premature deaths on hot days by 75 percent since 1960, another study has shown. ",
+            "Air conditioners have saved lives from the heat waves."
+          ]
+        },
+        {
+          "describe": "forgoing air-conditioning can be deadly",
+          "sentences": [
+            "And when it gets hot, forgoing air-conditioning can be deadly. ",
+            "The heat wave that plagued Chicago in 1995 killed more than 700 people, while the 2003 European heat wave and 2010 Russian heat wave killed tens of thousands each. "
+          ]
+        },
+        {
+          "describe": "some place is unbelievably hot",
+          "sentences": [
+            "“If you look at cooling degree days for Chennai or Mumbai, these are places that have twice as many cooling degree days as the hottest city in the U.S., Miami,” said Lucas Davis, director of the Energy Institute at the Haas School of Business of the University of California, Berkeley. ",
+            "“It’s unbelievably hot — there’s nothing in the U.S. that compares in terms of heat to these cities in India.”"
+          ]
+        },
+        {
+          "describe":"general fact",
+          "sentences": []
+        }
+      ]
+    },
+    "support_no": {
+      "relevant_facts": [
+        {
+          "describe": "growing concern of other countries",
+          "sentences": [
+            "But there is growing concern that as other countries adopt America’s love of air-conditioners, the electricity used to power them will overburden electrical grids and increase planet-warming emissions."
+          ]
+        },
+        {
+          "describe": "growth in air-conditioning",
+          "sentences": [
+            "The energy agency predicts much of the growth in air-conditioning will occur in India, China and Indonesia.",
+            "As incomes in those countries rise, however, more people are installing air-conditioners in their homes. "
+          ]
+        },
+        {
+          "describe": "International Energy Agency report",
+          "sentences": [
+            "If left unchecked, by 2050 air-conditioners would use as much electricity as China does for all activities today.",
+            "The number of air-conditioners worldwide is predicted to soar from 1.6 billion units today to 5.6 billion units by midcentury, according to a report issued Tuesday by the International Energy Agency."
+          ]
+        },
+        {
+          "describe": "greenhouse gas, global warming",
+          "sentences": [
+            "Greenhouse gas emissions released by coal and natural gas plants when generating electricity to power those air-conditioners would nearly double, from 1.25 billion tons in 2016 to 2.28 billion tons in 2050, the report says.",
+            "Those emissions would contribute to global warming, which could further heighten the demand for air-conditioning."
+          ]
+        },
+        {
+          "describe": "make the surrounding neighborhood warmer, then climate change",
+          "sentences": [
+            "if enough of your neighbors buy an air-conditioner it may increase the temperature in your home enough to drive you to do the same",
+            "And because air-conditioners work in part by venting hot air outside, they also make the surrounding neighborhood warmer. ",
+            "By some estimates air-conditioning can raise overnight temperatures by about two degrees Fahrenheit (one degree Celsius) in some cities, the report said.",
+            "Practically speaking, if enough of your neighbors buy an air-conditioner it may increase the temperature in your home enough to drive you to do the same.",
+            "Researchers have found that climate change made the European heat wave deadlier and the Russian heat wave more likely.",
+            "India is already one degree Fahrenheit warmer on average than it was a century ago."
+          ]
+        },
+        {
+          "describe":"general fact",
+          "sentences": []
+        }
+      ]
+    },
+    "solution": [
+      "That is why both Dr. Davis and Dr. Birol say the solution lies not in convincing countries to forgo air-conditioners, but in making air-conditioning more energy efficient. ",
+      "That could cut by half the additional energy demand for cooling in the coming years."
+    ],
+    "general_info": [
+      "More than crickets and fireflies, more than baseball and cookouts, perhaps nothing signals the arrival of summer in the United States like the soft familiar whir of air-conditioning.",
+      "Right now air-conditioning is concentrated in a handful of countries, mainly in the United States and Japan, and increasingly in China.",
+      "While 90 percent of American households have air-conditioning, “When we look in fact at the hot countries in the world, in Africa, Asia, Latin America and the Middle East, where about 2.8 billion people live, only about 8 percent of the population owns an air-conditioner,” said Fatih Birol, executive director of the energy agency.",
+      "Researchers have found that climate change made the European heat wave deadlier and the Russian heat wave more likely.",
+      "“If you look at cooling degree days for Chennai or Mumbai, these are places that have twice as many cooling degree days as the hottest city in the U.S., Miami,” said Lucas Davis, director of the Energy Institute at the Haas School of Business of the University of California, Berkeley. ",
+      "India is already one degree Fahrenheit warmer on average than it was a century ago.",
+      "Many air-conditioners on sale in India today use twice as much electricity to provide the same amount of cooling as more efficient units, Dr. Davis said.",
+      "On the other end of the spectrum, air-conditioners sold in Japan and the European Union tend to be 25 percent more efficient than units sold in the United States and China."
+    ]
+  },
+  "i172": {
+    "prompt_type": 1,
+    "support_yes": {
+      "relevant_facts": [
+        {
+          "describe": "The everglades are a unique and important ecosystem",
+          "sentences": [
+            "Wetlands are an important ecosystem.",
+            "The area was designated as one of the world's most important wetland areas."
+          ]
+        },
+        {
+          "describe": "Work to preserve the Everglades is a huge and ongoing environmental effort",
+          "sentences": [
+            "Concerned Floridians had been advocating for saving the area since the 1930s.",
+            "Their efforts paid off in 1947 when Congress created the Everglades National Park."
+          ]
+        },
+        {
+          "describe": "the Everglades are now only half the size it used to be",
+          "sentences": [
+            "Approximately 50% of the Everglades has been reclaimed for agricultural or urban use.",
+            "The Florida Everglades once covered 11,000 acres across the southern end of the."
+          ]
+        },
+        {
+          "describe":"general fact",
+          "sentences": [
+            "Situated at the southern end of the state, between Lake Okeechobee and the Gulf Coast, the Everglades are the largest wilderness east of the Mississippi River. ",
+            "The Florida Everglades teem with life.",
+            "Since then, efforts have been underway to safeguard the park and return the Everglades to health. ",
+            "Sugar farmers moved into the area and prospered.",
+            "The Florida Everglades once covered 11,000 acres across the southern end of the state.",
+            "Approximately 50% of the Everglades has been reclaimed for agricultural or urban use.",
+            "Much of the northern area has been polluted with phosphorus",
+            "Much of it is designed to reverse-engineer the canal system that was built in the 19th and mid-20th centuries. ",
+            "This phosphorus is agricultural runoff from the farms near the Everglades",
+            "As soon as Florida became a state in 1845, its legislature asked permission from Congress to drain the Everglades",
+            "Canals were dug to remove or redirect the water.",
+            "Land that dried out was reclaimed for agriculture or building purposes.",
+            "This has been the largest environmental conservation project in the history of the United States. ",
+            "For centuries, however, humans thought of wetlands as unhygienic swamps.",
+            "Starting in the late 1970s environmental concerns at both the national and international levels refocused attention on the Everglades.",
+            "Draining the Everglades was suggested in the late 19th century. "
+          ]
+        }
+      ]
+    },
+    "support_no": {
+      "relevant_facts": [
+        {
+          "describe": "There have been active campaigns in the past to eradicate them",
+          "sentences": [
+            "In 2013 the Florida Fish and Wildlife Conservation program issued permits to hunt the snakes within state wildlife-managed areas of the Everglades.  ",
+            "people were allowed to hunt them"
+          ]
+        },
+        {
+          "describe": "They have increased their population to the point of qualifying as invasive species",
+          "sentences": [
+            "Burmese pythons hunt other animals that are native to the Everglades.",
+            "Burmese pythns are invading the everglades.",
+            "python is an invasive species.",
+            "They are breeding in the Everglades and have reached numbers that designate them as an invasive species.",
+            "Starting in 1992--when it's thought that numerous Burmese pythons escaped pet stores and cages damaged in Hurricane Andrew--the numbers have grown at a faster rate.",
+            "Pythons can grow very quickly. "
+          ]
+        },
+        {
+          "describe": "Pythons are voracious eaters",
+          "sentences": [
+            "Pythons are eating machines.",
+            "They can eat anything from deer to bobcats, to raccoons to alligators.",
+            "The python eat everything from big animal to small mammals",
+            "They especially enjoy dining on small mammals and birds."
+          ]
+        },
+        {
+          "describe": "Population of small mammals falls significantly where pythons are prevalent",
+          "sentences": [
+            "since python appearance in the Everglades, the numbers of small mammals in the area are down significantly.",
+            "Additionally, this population loss is not observed in areas where the python has not established itself. "
+          ]
+        },
+        {
+          "describe": "Everglades is doing fine",
+          "sentences": [
+            "The draining of the Everglades in the late 19-century did affect the ecosystem but, the problem was resolved with the creation of the Everglades National Park.",
+            "The crayfish population is up.",
+            "Wading and migratory birds have improved their nesting habits.",
+            "Ecological indicators are showing some improvements."
+          ]
+        },
+        {
+          "describe":"general fact",
+          "sentences": ["The first Burmese python was found in the Florida Everglades in 1979. ",
+            "The Burmese pythons that have been released in southern Florida have found a habitat they like in the Everglades.",
+            "It's presumed the animal was originally kept as a pet and then released by its owner. ",
+            "In the United States the Burmese python is a popular pet.",
+            "Sixty-eight animals were captured.",
+            "Docile and beautifully patterned in brown and gold diamond shapes, these snakes can be purchased at pet stores or reptile shows. ",
+            "Owners keep them in cages or tanks and feed them rats or mice. ",
+            "Most people buy pythons when the animals are small.  ",
+            "For many pet owners, the pet pythons become too big to manage."
+          ]
+        }
+      ]
+    },
+    "solution": [
+    ],
+    "general_info": [
+    ]
+  },
+    "i174": {
+    "prompt_type": 1,
+    "support_yes": {
+      "relevant_facts": [
+        {
+          "describe": "Mount Taylor, richest uranium ore reserves",
+          "sentences": [
+            "Mount Taylor sits atop one of the richest uranium ore reserves in the country.",
+            "The city of Grants, New Mexico, 20 miles from Mount Taylor, was once considered a uranium capital of the world. "
+          ]
+        },
+        {
+          "describe": "Uranium contains huge amounts of energy",
+          "sentences": [
+            "Its atoms can easily be made to release huge amounts of energy.",
+            "A single pound of uranium contains about as much energy as 3 million pounds of coal.",
+            "In nuclear power plants, uranium rods are used as fuel to produce energy."
+          ]
+        },
+        {
+          "describe": "Mining benfits the enconomy",
+          "sentences": [
+            "The nearby city of Grants welcomes the opportunity to provide jobs and create business projects.",
+            "Millions of dollars of tax revenues would benefit the entire state. "
+          ]
+        },
+        {
+          "describe": "state district court's attitude",
+          "sentences": [
+            "A state district court overturned the Traditional Cultural Property designation in 2011. ",
+            "Court battles challenged the status with claims that the area was too large to be protected as a historic site. "
+          ]
+        },
+        {
+          "describe":"general fact",
+          "sentences": []
+        }
+      ]
+    },
+    "support_no": {
+      "relevant_facts": [
+        {
+          "describe": "Mount Taylor is a sacred place",
+          "sentences": [
+            "Pueblo Indians describe it as “a mountain of life.” ",
+            "To the Acoma people, it is the “place of snow,” the source of life-giving water.",
+            "It is the home of the Hopi spirit of the volcano. ",
+            "One of four sacred mountains, it marks the southern boundary of the traditional homeland of the Navajo tribe. ",
+            "The summit is a holy site of prayer and ceremonies. ",
+            "Medicine men gather herbs and soil on the slopes. ",
+            "For centuries, Mount Taylor has been a sacred place for Native American tribes in the Southwest. ",
+            "Today, it is a place in peril."
+          ]
+        },
+        {
+          "describe": "Extracting the ore produces radioactive waste",
+          "sentences": [
+            "For every two pounds of uranium, 998 pounds of radioactive waste is left over in piles and pits. ",
+            "Over time it can leak into the soil and underground water if the area is not reclaimed.",
+            "Rocks tinged with the greenish hue of uranium ore blanket the landscape because cleanup of old mining activity has not been completed"
+          ]
+        },
+        {
+          "describe": "Mining contaminates environment and causes health problem",
+          "sentences": [
+            "Extracting the ore is a long and complicated process. ",
+            "This element is radioactive. ",
+            "Exposure to radioactive dust and contaminated groundwater causes health problems. ",
+            "Indeed, there is a higher incidence of lung cancer and other serious illnesses in mining communities. ",
+            "Mining may contaminate the water source for nearby Acoma Sky City, the oldest inhabited community in the United States. "
+          ]
+        },
+        {
+          "describe": "mining impact on traditional Native",
+          "sentences": [
+            "U.S. Forest Service officials acknowledge that the mines will have significant impact on archaeological sites and traditional Native activities.",
+            "In 2009, members of the Navajo Nation, Hopi tribe, and Zuni, Acoma, and Laguna Pueblos worked together with the state of New Mexico to obtain the special designation as a Traditional Cultural Property for 434,000 acres of Mount Taylor.",
+            "The Native Americans felt this was the best way to protect their sacred mountain while still providing the public with access for wood gathering, hunting, hiking, and cattle grazing. "
+          ]
+        },
+        {
+          "describe":"general fact",
+          "sentences": []
+        }
+      ]
+    },
+    "solution": [
+    ],
+    "general_info": [
+      "Navajo named it, Tsoodzil, or Blue Bead.",
+      "Mount Taylor, at an elevation of 11,300 feet, is visible from more than 100 miles away. ",
+      "Douglas fir, aspen, and piñon pine trees in the Cibola National Forest blanket the mountain. ",
+      "Spires of volcanic rock rise on the north slope. ",
+      "The peak is often snow-capped. ",
+      "But it is what lies underneath the mountain that threatens this site. ",
+      "Uranium is a metal found in the layers of sandstone in the Four Corners area of New Mexico, Arizona, Colorado, and Utah. ",
+      "Uranium mining in New Mexico was a booming business from the 1950s to 1980s, but it took its toll on the people and the land. ",
+      "Mines on Mount Taylor were shuttered in 1990 due to the low price of uranium",
+      "Recently Canadian, Japanese, and U.S. companies have submitted permits to establish new mines even though current U.S. mines are operating at only one third of their capacity. ",
+      "But an 1872 federal law permits mining regardless of its impact on cultural or natural resources.",
+      "This special status for Mount Taylor angered the mining companies, ranchers, and property owners, whose livelihoods depend on using this land. ",
+      "The case is now in the state Supreme Court.",
+      "Mount Taylor was named one of America’s Most Endangered Places by the National Trust for Historic Preservation. ",
+      "Uranium mining is the turning point. ",
+      "Will the sacred ties that the Native people have with the earth be broken? ",
+      "Do the mining companies have an obligation to consider the tribal interests and environmental impact? ",
+      "Will the potential economic reward outweigh the risk?",
+      "What is the fate of Mt. Taylor? "
+    ]
+  },
+  "i1": {
+    "prompt_type": 2,
+    "solution": [
+      "sen1",
+      "sen2"
+    ],
+    "general_info": {
+      "relevant_facts": [
+        {
+          "describe": "General facts",
+          "sentences": [
+            "More than crickets and fireflies, more than baseball and cookouts, perhaps nothing signals the arrival of summer in the United States like the soft familiar whir of air-conditioning.",
+            "sen2"
+          ]
+        },
+        {
+          "describe": "greenhouse gas",
+          "sentences": [
+            "sen1",
+            "sen2"
+          ]
+        }
+      ]
+    }
+  }
+}
