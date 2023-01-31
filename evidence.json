@@ -218,6 +218,7 @@
         {
           "describe": "Uranium contains huge amounts of energy",
           "sentences": [
+            "uranium releases huge amounts of energy",
             "Its atoms can easily be made to release huge amounts of energy.",
             "A single pound of uranium contains about as much energy as 3 million pounds of coal.",
             "In nuclear power plants, uranium rods are used as fuel to produce energy."
@@ -227,7 +228,8 @@
           "describe": "Mining benfits the enconomy",
           "sentences": [
             "The nearby city of Grants welcomes the opportunity to provide jobs and create business projects.",
-            "Millions of dollars of tax revenues would benefit the entire state. "
+            "Millions of dollars of tax revenues would benefit the entire state. ",
+            "Mining bring job and money."
           ]
         },
         {
@@ -248,6 +250,7 @@
         {
           "describe": "Mount Taylor is a sacred place",
           "sentences": [
+            "Mount Taylor is a sacred, historical, important piece for many Native Americans.",
             "Pueblo Indians describe it as “a mountain of life.” ",
             "To the Acoma people, it is the “place of snow,” the source of life-giving water.",
             "It is the home of the Hopi spirit of the volcano. ",
@@ -269,11 +272,18 @@
         {
           "describe": "Mining contaminates environment and causes health problem",
           "sentences": [
+            "Mining uranium can contaminate the land because it leaks under the soil",
             "Extracting the ore is a long and complicated process. ",
             "This element is radioactive. ",
+            "mining can cause air pollution",
+            "Uranium mining may also contaminate the primary water resource",
+            "toxins are released into the air",
+            "the waste can leak into the soil and underground water if the area is not reclaimed",
+            "toxins and radioactive dust can cause serious illnesses",
             "Exposure to radioactive dust and contaminated groundwater causes health problems. ",
             "Indeed, there is a higher incidence of lung cancer and other serious illnesses in mining communities. ",
-            "Mining may contaminate the water source for nearby Acoma Sky City, the oldest inhabited community in the United States. "
+            "Mining may contaminate the water source for nearby Acoma Sky City, the oldest inhabited community in the United States. ",
+            "the people mining Mount Taylor are going to get sick because they will either breath radioactive dust or drink radioactive groundwater."
           ]
         },
         {
@@ -281,7 +291,8 @@
           "sentences": [
             "U.S. Forest Service officials acknowledge that the mines will have significant impact on archaeological sites and traditional Native activities.",
             "In 2009, members of the Navajo Nation, Hopi tribe, and Zuni, Acoma, and Laguna Pueblos worked together with the state of New Mexico to obtain the special designation as a Traditional Cultural Property for 434,000 acres of Mount Taylor.",
-            "The Native Americans felt this was the best way to protect their sacred mountain while still providing the public with access for wood gathering, hunting, hiking, and cattle grazing. "
+            "The Native Americans felt this was the best way to protect their sacred mountain while still providing the public with access for wood gathering, hunting, hiking, and cattle grazing. ",
+            "Many local tribes fear the development of uranium resources in the Mount Taylor region would destroy the culturally and spiritually significant land."
           ]
         },
         {
@@ -307,7 +318,6 @@
       "This special status for Mount Taylor angered the mining companies, ranchers, and property owners, whose livelihoods depend on using this land. ",
       "The case is now in the state Supreme Court.",
       "Mount Taylor was named one of America’s Most Endangered Places by the National Trust for Historic Preservation. ",
-      "Uranium mining is the turning point. ",
       "Will the sacred ties that the Native people have with the earth be broken? ",
       "Do the mining companies have an obligation to consider the tribal interests and environmental impact? ",
       "Will the potential economic reward outweigh the risk?",
